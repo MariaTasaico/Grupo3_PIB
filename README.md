@@ -40,6 +40,8 @@
 ### ROL: PROGRAMADORA
 - COLOCA LOS CODIGOS DE PROGRAMACION
 - ENCARGADA DE TRAER EL DISPOSITIVO DE PROGRAMACION
+# Gracias Por Visitar Nuestro Repositorio
+### Esperamos que la visita por nuestro repositorio haya sido inspiradora para todo aquel que lo lea y pueda inspirar a más personas a colaborar con el futuro de la tecnología médica en el sistema de salud de nuestro país y así brindar un servicio de atención médica de calidad a lo largo del Perú.
 
 
 
